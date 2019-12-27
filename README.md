@@ -16,10 +16,11 @@ lets practice easy make html webpage(just follow)
 깃허브 가입은 그냥 회원가입이나 마찬가지이므로 별도로 설명하지 않겠다. 
 처음볼 때 인터페이스가 복잡해보이는데 간단하게 말해서 깃허브는 웹폴더라고 보면된다.
 1) 깃허브 홈페이지에서 새로운 폴더를 하나 만들자
-<img src=”https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/makerepository.jpg?raw=true” " width="90%"></img>
+
+<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/makerepository.jpg?raw=true" width="90%"></img>
 2) 깃허브>>내가만든 폴더(repository)>>우상단 setting에서 Choose Theme를 누른다.
-<img src=”https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/01choosetheme.jpg
-?raw=true” " width="90%"></img>
+<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/01choosetheme.jpg
+?raw=true" width="90%"></img>
 
 3) 아무거나 고른다(어차피 html넣으면 없어진다)
 <img src=”https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/02choostheme.jpg?raw=true” " width="90%"></img>
