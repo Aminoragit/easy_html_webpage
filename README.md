@@ -1,7 +1,7 @@
 # easy_html_webpage
 lets practice easy make html webpage(just follow)
 
-#깃허브는 정말 아름다운 저장소이다.<br>
+<h1>깃허브는 정말 아름다운 저장소이다.</h1><br>
 
 그리고 모든 저장소는 웹페이지로 만들수 있다고 할 수 있는데 단순히 내 PC에 있는 것을 다른 사람들이 볼수 있게하면 그게 웹페이지다.
 
