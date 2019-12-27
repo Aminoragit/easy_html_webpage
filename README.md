@@ -19,33 +19,29 @@ lets practice easy make html webpage(just follow)
 
 <img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/makerepository.jpg?raw=true" width="90%"></img>
 2) 깃허브>>내가만든 폴더(repository)>>우상단 setting에서 Choose Theme를 누른다.
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/01choosetheme.jpg
-?raw=true" width="90%"></img>
+<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/01choosetheme.jpg?raw=true" width="90%"></img>
 
 3) 아무거나 고른다(어차피 html넣으면 없어진다)
 <img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/02choostheme.jpg?raw=true" width="90%"></img>
 
  4) 다시 setting의 choose theme가 있던곳을 보면 해당 깃허브의 주소가 있는데 그걸 주소창에 복붙한다(아직 html파일을 안넣어서 아무것도 안뜨는게 정상이다.)
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/03html
-.jpg?raw=true" width="90%"></img>
+<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/03html.jpg?raw=true" width="90%"></img>
 
 5) 구글링으로 자신이 마음에드는 html 템플릿을 다운받아 압축을 푼다.
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/04googlling
-.jpg?raw=true" width="90%"></img>
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/05whatuwant
-.jpg?raw=true" width="90%"></img>
+<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/04googlling.jpg?raw=true" width="90%"></img>
+<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/05whatuwant.jpg?raw=true" width="90%"></img>
 
 6) 깃허브 데스크탑을 설치한다
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/ github_desktop.jpg?raw=true" width="90%"></img>
+<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/github_desktop.jpg?raw=true" width="90%"></img>
 
 
 7) 만든 폴더를 열어준다
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/ show in explorer.jpg?raw=true" width="90%"></img>
+<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/show in explorer.jpg?raw=true" width="90%"></img>
 
 
 
 8) 아까 다운받은 html 템플릿을 그대로 복붙한다.
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/ 06pagesource.jpg?raw=true" width="90%"></img>
+<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/06pagesource.jpg?raw=true" width="90%"></img>
 
 
 9) Github Desktop으로 복붙한 결과를 깃허브 서버로 push 해준다(==동기화)
