@@ -1,14 +1,13 @@
-# easy_html_webpage
-lets practice easy make html webpage(just follow)
+<h1># Easy_html_webpage</h1>
+<h3>lets practice easy make html webpage(just follow)</h3>
+
 
 <h1>깃허브는 정말 아름다운 저장소이다.</h1><br>
 
 그리고 모든 저장소는 웹페이지로 만들수 있다고 할 수 있는데 단순히 내 PC에 있는 것을 다른 사람들이 볼수 있게하면 그게 웹페이지다.
 
 
-
 대부분은 dothome같은 웹페이지를 열어주는 사이트에서 주소를 받아 자신만의 웹페이지를 만들수 있고 수정하기도 매우 쉽다.
-
 
 
 하지만 이번에는 깃허브를 활용해서 자신만의 웹페이지를 만들어보고 해당 페이지에 암호를 걸어보기도 할것이다.
