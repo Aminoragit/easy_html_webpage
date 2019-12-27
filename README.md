@@ -73,14 +73,18 @@
 <h3>8) 아까 다운받은 html 템플릿을 그대로 복붙한다.</h3>
 <kbd><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/06pagesource.jpg?raw=true" width="90%" border="1"></img></kbd>
 
-
+<br>
+<hr>
+<br>
 <h3>9) Github Desktop으로 복붙한 결과를 깃허브 서버로 push 해준다(==동기화)</h3>
-
+해당 어플을 깔고난후에 좌상단에서 본인이 만든 폴더(repository)를 선택하고 Github Desktop 중간에 파란색으로 Pull origin이 활성화되있으면 그냥 누르면 된다. 그러면 깃허브의 폴더가 내 pc의 폴더로 생성되고 반대로 내가 Pc의 폴더에 파일을 넣거나 text를 변경한후 Push(동기화)해주면 깃허브에 그대로 업로드 된다.
+<br>
+<br>
 <hr>
 <br>
 <br>
 <h1>1차적으로 외부에서도 접속가능한 html홈페이지가 완성됬다.</h1>
-
+<br><br>
 
 이제 index.html를 수정하여 내가 원하는 모양으로 만들어보자
 
@@ -128,4 +132,29 @@
 <hr>
 <br>
 <h3>9) 잠시후 주소로 들어가면 수정된 홈페이지를 볼수 있다.</h3>
-
+<br>
+<hr>
+<br>
+<br>
+<hr>
+<br>
+<h1>다음은 홈페이지를 암호화해보자</h1>
+<br>
+<hr>
+<br>
+<h2>여기까지가 기본적인 웹페이지를 만드는 방법이다, 복잡하다고 생각하겠지만 넓게 생각해보아라 우리가 한것은 다음과 같이 정리할수 있다.</h2>
+<br>
+<br>
+1>> 깃허브에 폴더 생성
+<br>
+2>> 깃허브 Theme고르기==주소받기
+<br>
+3>> 원하는 HTML고르고 F12로 내부 내용 바꾸기
+<br>
+4>> Github Desktop으로 수정한 HTML을 깃허브에 업로드하기
+<br>
+5>> 홈페이지 완성
+<br>
+<hr>
+<br>
+<h3>이게 끝이다. 다른 사이트를 만들고 싶으면 폴더 새로 만들고 원하는 html를 만들면 된다.게다가 만들어 놓은 html들은 모두 web에 있는 사이트 이므로 서로 잇는것도 가능하다!!</h3>
