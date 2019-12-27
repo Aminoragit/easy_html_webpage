@@ -27,37 +27,37 @@ lets practice easy make html webpage(just follow)
 
 1) 깃허브 홈페이지에서 새로운 폴더를 하나 만들자
 
-<kbd><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/makerepository.jpg?raw=true" width="90%"></img>
-</kbd>
+<kbd><center><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/makerepository.jpg?raw=true" width="90%"></img></kbd></center>
+
 
 2) 깃허브>>내가만든 폴더(repository)>>우상단 setting에서 Choose Theme를 누른다.
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/01choosetheme.jpg?raw=true" width="90%" border="1"></img>
+<kbd><center><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/01choosetheme.jpg?raw=true" width="90%" border="1"></img></kbd></center>
 
 
 3) 아무거나 고른다(어차피 html넣으면 없어진다)
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/02choostheme.jpg?raw=true" width="90%" border="1"></img>
+<kbd><center><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/02choostheme.jpg?raw=true" width="90%" border="1"></img></kbd></center>
 
 
  4) 다시 setting의 choose theme가 있던곳을 보면 해당 깃허브의 주소가 있는데 그걸 주소창에 복붙한다(아직 html파일을 안넣어서 아무것도 안뜨는게 정상이다.)
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/03html.jpg?raw=true" width="90%" border="1"></img>
+<kbd><center><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/03html.jpg?raw=true" width="90%" border="1"></img></kbd></center>
 
 
 5) 구글링으로 자신이 마음에드는 html 템플릿을 다운받아 압축을 푼다.
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/04googlling.jpg?raw=true" width="90%" border="1"></img>
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/05whatuwant.jpg?raw=true" width="90%" border="1"></img>
+<kbd><center><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/04googlling.jpg?raw=true" width="90%" border="1"></img></kbd></center>
+<kbd><center><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/05whatuwant.jpg?raw=true" width="90%" border="1"></img></kbd></center>
 
 
 6) 깃허브 데스크탑을 설치한다
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/github_desktop.jpg?raw=true" width="90%" border="1"></img>
+<kbd><center><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/github_desktop.jpg?raw=true" width="90%" border="1"></img></kbd></center>
 
 
 7) 만든 폴더를 열어준다
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/show in explorer.jpg?raw=true" width="90%" border="1"></img>
+<kbd><center><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/show in explorer.jpg?raw=true" width="90%" border="1"></img></kbd></center>
 
 
 
 8) 아까 다운받은 html 템플릿을 그대로 복붙한다.
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/06pagesource.jpg?raw=true" width="90%" border="1"></img>
+<kbd><center><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/06pagesource.jpg?raw=true" width="90%" border="1"></img></kbd></center>
 
 
 9) Github Desktop으로 복붙한 결과를 깃허브 서버로 push 해준다(==동기화)
@@ -69,7 +69,7 @@ lets practice easy make html webpage(just follow)
 이제 index.html를 수정하여 내가 원하는 모양으로 만들어보자
 
 1) 복붙해준 폴더에 있는 index.html를 열어준후 F12를 누른다.
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/07index_html_f12.jpg?raw=true" width="90%" border="1"></img>
+<kbd><center><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/07index_html_f12.jpg?raw=true" width="90%" border="1"></img></kbd></center>
 
 
 2) 열린 창의 왼쪽끝의 화살표를 눌러준다.
@@ -79,11 +79,11 @@ lets practice easy make html webpage(just follow)
 
 
 4) f12로 열린창에 수정하고 싶은곳이 선택된다.
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/08direct_chage.jpg?raw=true" width="90%" border="1"></img>
+<kbd><center><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/08direct_chage.jpg?raw=true" width="90%" border="1"></img></kbd></center>
 
 
 5) 내부값을 변경한다
-<img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/09changeresult.jpg?raw=true" width="90%" border="1"></img>
+<kbd><center><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/09changeresult.jpg?raw=true" width="90%" border="1"></img></kbd></center>
 
 
 6) 좌측Ctrl(컨트롤)키와 S를 눌러 다른이름으로 저장한다.
@@ -91,6 +91,9 @@ lets practice easy make html webpage(just follow)
 
 7) 해당 파일명을 index.html로 바꾸고 원래있던 index.html를 덮어쓴다.
 
+
 8)GitHub Desktop으로 폴더에서 수정된것들을 push해준다.
 
+
 9) 잠시후 주소로 들어가면 수정된 홈페이지를 볼수 있다.
+
