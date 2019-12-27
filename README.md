@@ -1,7 +1,8 @@
 # easy_html_webpage
 lets practice easy make html webpage(just follow)
 
-깃허브는 정말 아름다운 저장소이다.
+#깃허브는 정말 아름다운 저장소이다.<br>
+
 그리고 모든 저장소는 웹페이지로 만들수 있다고 할 수 있는데 단순히 내 PC에 있는 것을 다른 사람들이 볼수 있게하면 그게 웹페이지다.
 
 
@@ -15,7 +16,7 @@ lets practice easy make html webpage(just follow)
 
 
 그림을 따라만 해도 간단하다.
--준비물-
+###-준비물-
 1) 깃허브 id
 2) 멘탈
 
@@ -25,16 +26,16 @@ lets practice easy make html webpage(just follow)
 처음볼 때 인터페이스가 복잡해보이는데 간단하게 말해서 깃허브는 웹폴더라고 보면된다.
 
 
-1) 깃허브 홈페이지에서 새로운 폴더를 하나 만들자
+####1) 깃허브 홈페이지에서 새로운 폴더를 하나 만들자
 
 <kbd><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/makerepository.jpg?raw=true" width="90%"></img></kbd>
 
 
-2) 깃허브>>내가만든 폴더(repository)>>우상단 setting에서 Choose Theme를 누른다.
+####2) 깃허브>>내가만든 폴더(repository)>>우상단 setting에서 Choose Theme를 누른다.
 <kbd><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/01choosetheme.jpg?raw=true" width="90%" border="1"></img></kbd>
 
 
-3) 아무거나 고른다(어차피 html넣으면 없어진다)
+####3) 아무거나 고른다(어차피 html넣으면 없어진다)
 <kbd><img src="https://github.com/wjsxkxk1/easy_html_webpage/blob/master/makehompage/02choostheme.jpg?raw=true" width="90%" border="1"></img></kbd>
 
 
